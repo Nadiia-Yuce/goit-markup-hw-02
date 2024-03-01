@@ -120,9 +120,14 @@ button {
 }
 
 .team {
+  background-color: #f4f4fd;
 }
 
 .team-title {
+}
+
+.team-list {
+  background-color: #ffffff;
 }
 
 .team-item {
