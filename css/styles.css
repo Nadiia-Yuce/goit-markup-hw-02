@@ -79,6 +79,12 @@ button {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  background-color: #4d5ae5;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
 }
 
 .title {
@@ -87,6 +93,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .subtitle {
@@ -113,7 +120,6 @@ button {
 }
 
 .team {
-  background: #f4f4fd;
 }
 
 .team-title {
